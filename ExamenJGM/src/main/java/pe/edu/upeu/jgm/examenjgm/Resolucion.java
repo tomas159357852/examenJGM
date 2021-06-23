@@ -89,6 +89,9 @@ public class Resolucion {
         int resultadojgm=0, valorx, valorn;
         valorx=valor.leer(0,"Ingrese el valor de X:");
         valorn=valor.leer(0,"Ingrese el valor de N:");
+        if(valorx>=1){
+            
+        }
         
     }
 

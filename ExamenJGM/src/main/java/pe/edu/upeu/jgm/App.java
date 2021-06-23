@@ -27,8 +27,8 @@ public class App {
             case 3: Resolucion.numerosperfectojgm();
             System.out.println(mensaje);
             break;
-            case 4:;
-            break;
+            case 4:; Resolucion.metodorecursivo();
+            break; 
             default: System.out.println("Error: has ingresado una opción incorrecta.");
         }
         
